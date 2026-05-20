@@ -37,7 +37,9 @@ Acesse a página do portfólio: **[biel14xp.github.io/Portifolio-Hub](https://bi
 
 ---
 
-## 📬 Contato
+## 📬 Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-delmondes-828454319)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/biel14xp)
+
+Developed with 💻 by **Gabriel (biel_14xp)**
