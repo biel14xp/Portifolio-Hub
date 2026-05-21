@@ -13,6 +13,7 @@ Lista de tarefas feita com HTML, CSS e JavaScript puro.
 ### 🔢 Calculator
 Calculadora feita com HTML, CSS e JavaScript.
 
+- 🔗 [Ver projeto online](https://biel14xp.github.io/Calculator)
 - 📁 [Repositório](https://github.com/biel14xp/Calculator)
 
 ---
